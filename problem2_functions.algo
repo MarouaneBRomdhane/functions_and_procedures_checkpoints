@@ -22,7 +22,7 @@ END
 
 ALGORITHM DOT_PRODUCT
 VAR
-    x, y :INTEGER;
+    x, y :INTEGER; // The number of lines is X. The number of columns is Y.
     pairs: ARRAY_OF FLOAT [50][50];
     ps: FLOAT;
 BEGIN
